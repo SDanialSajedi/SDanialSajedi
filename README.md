@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner.png" width="100%" />
+  <img src="./Banner.png" width="100%" />
 </p>
 
 <h1 align="center">Danial Sajedi</h1>
