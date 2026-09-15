@@ -16,28 +16,28 @@
 
 ## About Me
 
-- 🤖 AI & Robotics Developer
-- 🚁 Building Autonomous Drone Systems
-- 🌐 Frontend Developer (React / Next.js)
-- 🎨 Interested in 3D Web Experiences
-- 🐧 Linux & Open Source Enthusiast
+- AI & Robotics Developer
+- Building Autonomous Drone Systems
+- Frontend Developer (React / Next.js)
+- Interested in 3D Web Experiences
+- Linux & Open Source Enthusiast
 
 ---
 
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   
 ###Programming
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" /> 
 ### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" />
 ### Tools & Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" />
 
@@ -49,16 +49,16 @@
 </p>
 ---
 
-## 🤖 AI & Robotics
+## AI & Robotics
 Python • Machine Learning • Computer Vision
 
-## 🌐 Frontend Development
+## Frontend Development
 React • Next.js • JavaScript • HTML • CSS
 
-## 💻 Software & Systems
+## Software & Systems
 C# • Ubuntu • Git 
 
-## 🎨 3D & Design
+## 3D & Design
 Three.js • Blender • UI/UX
 ---
 
