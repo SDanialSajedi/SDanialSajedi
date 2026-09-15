@@ -2,7 +2,7 @@
   <img src="./assets/Banner.png" width="100%" />
 </p>
 
-<h1 align="center">Danial Sajedi</h1>
+<h1 align="center">Seyed Danial Sajedi</h1>
 
 <p align="center">
   Frontend Developer • AI Enthusiast • Drone Systems Developer • 3D Designer
