@@ -67,8 +67,17 @@ class DanialSajedi:
 
 ---
 
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+</p>
 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SDanialSajedi&style=for-the-badge"/>
+</p>
 ---
 
 ## Current Focus
