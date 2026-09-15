@@ -71,14 +71,17 @@ class DanialSajedi:
 </p>
 ---
 
-## Current Focus
+## 🤖 AI & Robotics
+Python • Machine Learning • Computer Vision
 
-- 🤖 AI-Powered Drone Systems
-- 🧠 Deep Learning & Computer Vision
-- 🌐 Advanced Frontend Applications
-- 🎨 Interactive 3D Experiences
-- 🚀 Building Real-World Projects
+## 🌐 Frontend Development
+React • Next.js • JavaScript • HTML • CSS
 
+## 💻 Software & Systems
+C# • Ubuntu • Git 
+
+## 🎨 3D & Design
+Three.js • Blender • UI/UX
 ---
 
 ## Featured Projects
