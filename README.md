@@ -16,36 +16,11 @@
 
 ## About Me
 
-```python
-class DanialSajedi:
-
-    def __init__(self):
-        self.role = [
-            "Frontend Developer",
-            "AI Enthusiast",
-            "Drone Systems Developer",
-            "3D Designer"
-        ]
-
-        self.tech_stack = [
-            "Next.js",
-            "React",
-            "TypeScript",
-            "Python",
-            "TensorFlow",
-            "Three.js"
-        ]
-
-        self.current_focus = [
-            "Drone AI Systems",
-            "Computer Vision",
-            "3D Web Applications",
-            "Modern Frontend Development"
-        ]
-
-    def build(self):
-        return "Code • Design • Fly"
-```
+- 🤖 AI & Robotics Developer
+- 🚁 Building Autonomous Drone Systems
+- 🌐 Frontend Developer (React / Next.js)
+- 🎨 Interested in 3D Web Experiences
+- 🐧 Linux & Open Source Enthusiast
 
 ---
 
@@ -53,12 +28,15 @@ class DanialSajedi:
 ## 🚀 Tech Stack
 
 <p align="center">
-
+  
+###Programming
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" />
+### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" />
+### Tools & Systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" />
