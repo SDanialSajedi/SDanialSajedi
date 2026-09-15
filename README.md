@@ -91,6 +91,14 @@ C# • Ubuntu • Git
 ## 3D & Design
 Three.js • Blender • UI/UX
 
+## 📄 Resume
+
+<p align="center">
+  <a href="./resume/Danial_Sajedi_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
 
 ## Connect With Me
 
