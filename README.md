@@ -101,13 +101,16 @@ Three.js • Blender • UI/UX
 
 
 ## Connect With Me
-
 <p align="center">
 
-<a href="mailto:sdanialsajedi@gmail.com">
-  📧 Email
-</a>
-•
+✉️ <a href="mailto:danial@danialsajedi.com">danial@danialsajedi.com</a><br>
+
+✉️ <a href="mailto:contact@danialsajedi.com">contact@danialsajedi.com</a><br>
+
+✉️ <a href="mailto:sdanialsajedi@gmail.com">sdanialsajedi@gmail.com</a>
+
+</p>
+<p align="center">
 <a href="https://danialsajedi.com">
   🌐 Website
 </a>
