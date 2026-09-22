@@ -104,7 +104,7 @@ Three.js • Blender • UI/UX
 
 <p align="center">
 
-<a href="mailto:danialsajedi@gmail.com">
+<a href="mailto:sdanialsajedi@gmail.com">
   📧 Email
 </a>
 •
@@ -112,11 +112,11 @@ Three.js • Blender • UI/UX
   🌐 Website
 </a>
 •
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/SDanial_Sajedi">
   ✈ Telegram
 </a>
 •
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/s_danial_sajedi">
   📷 Instagram
 </a>
 
