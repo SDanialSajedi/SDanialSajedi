@@ -77,7 +77,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SDanialSajedi&style=for-the-badge"/>
 </p>
----
+
 
 ## AI & Robotics
 Python • Machine Learning • Computer Vision
